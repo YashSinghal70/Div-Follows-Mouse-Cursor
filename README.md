@@ -1,2 +1,2 @@
-# iv-Follows-Mouse-Cursor
-iv Follows Mouse Cursor using HTML,CSS and JavaScript
+# Div-Follows-Mouse-Cursor
+Div Follows Mouse Cursor using HTML,CSS and JavaScript
